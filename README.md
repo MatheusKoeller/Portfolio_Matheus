@@ -8,8 +8,8 @@ Ferramentas utilizadas:
 -CSS
 -JavaScript
 
-Nele veremos um pouquinho sobre mim:
-- Navegação por ancoras
+Nele veremos:
+- Navegação 
 - Icones e imagens 
 - Botão de Dark Mode
 - Download CV
